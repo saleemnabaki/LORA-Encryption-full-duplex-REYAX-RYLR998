@@ -1,1 +1,7 @@
 
+Description of the project
+Encryption and decryption of data during two-way transmission.
+
+Components are used :
+1- ESP32
+2- REYAX RYLR998
